@@ -1,0 +1,131 @@
+fecha,franja,producto,familia,unidades,precio_unitario,importe
+2025-10-18,Desayuno,Croissant,Entrante,5,2.2,11.0
+2025-11-12,Comida,Tarta Queso,Postre,2,3.5,7.0
+2025-12-31,Comida,Hamburguesa,Principal,2,8.5,17.0
+2025-11-19,Desayuno,Café,Bebida,3,1.5,4.5
+2025-12-09,Desayuno,Tostada,Entrante,4,2.0,8.0
+2025-12-02,Comida,Tarta Queso,Postre,0,3.5,7.0
+2025-10-17,Desayuno,Flan,Postre,1,3.0,3.0
+2025-11-17,Comida,Pasta,Principal,4,7.5,30.0
+2025-12-07,Comida,Pasta,Principal,,7.5,15.0
+2025-12-26,Comida,Café,Bebida,4,1.5,6.0
+2025-10-21,Desayuno,Tostada,Entrante,4,2.0,8.0
+2025-10-14,Comida,Zumo Naranja,Bebida,2,2.5,5.0
+2025-12-30,Comida,Zumo Naranja,Bebidda,1,2.5,2.5
+2025-12-09,Desayuno,Zumo Naranja,Bebida,1,2.5,2.5
+2025-12-15,Comida,Croissant,Entrante,2,2.2,4.4
+2025-10-13,Desayuno,Tostada,Entrante,1,2.0,2.0
+2025-12-28,Desayuno,Hamburguesa,Principal,2,8.5,17.0
+2025-11-08,Desayuno,Pasta,Principal,4,7.5,30.0
+2025-11-11,Comida,Cafe,Bebida,3,1.5,4.5
+2025-10-04,Comida,Tostada,Entrante,3,2.0,6.0
+2025-11-30,Comida,Flan,Postree,3,3.0,9.0
+2025-12-12,Desayuno,Ensalada,Principal,3,6.5,19.5
+2025-10-31,Comida,Cafe,Bebida,4,1.5,6.0
+2025-10-01,Desayuno,Flan,Postre,5,3.0,15.0
+2025-11-10,Comida,Café,Bebida,5,1.5,7.5
+2025/13/40,Comida,Ensalada,Principal,1,6.5,6.5
+2025-11-07,Desayuno,Cafe,Bebida,2,1.5,3.0
+2025-12-17,Desayuno,Hamburguesa,Principal,5,8.5,42.5
+2025-11-27,Desayuno,Tostada,Entrante,2,2.0,4.0
+2025-11-14,Comida,Hamburguesa,Principal,3,8.5,25.5
+2025-12-02,Comida,Cafe,Bebida,2,1.5,999.0
+2025-10-15,Desayuno,Hamburguesa,Principal,1,8.5,8.5
+2025-12-22,Desayuno,Café,Bebida,5,1.5,7.5
+2025-12-31,Comida,Pasta,Principal,4,7.5,30.0
+2025-12-28,Desayuno,Flan,Postre,2,3.0,6.0
+2025-11-13,Comida,Hamburguesa,Principal,1,8.5,8.5
+2025-12-30,Comida,Cafe,Bebida,5,1.5,7.5
+2025-12-22,Comida,Tarta Queso,Postre,2,3.5,7.0
+2025-11-03,Comida,Pasta,Principal,1,7.5,7.5
+2025-12-25,Desayuno,Pasta,Principal,5,7.5,37.5
+2025-10-19,Desayuno,Flan,Postre,2,10.0,5.0
+2025-10-01,Comida,Ensalada,Principal,3,6.5,19.5
+2025-10-18,Desayuno,Ensalada,Principal,5,6.5,32.5
+2025-11-01,Comida,Pasta,Principal,1,7.5,7.5
+2025-11-04,Comida,Flan,Postre,2,3.0,6.0
+2025-10-23,Comida,Tostada,Entrante,1,2.0,2.0
+2025-10-29,Desayuno,Pasta,Principal,4,7.5,30.0
+2025-10-09,Comida,Tarta Queso,Postre,4,3.5,14.0
+2025-10-27,Comida,Tostada,Entrante,1,2.0,2.0
+2025-11-26,Desayuno,Cafe,Bebida,2,1.5,3.0
+2025-10-13,Comida,Ensalada,Principal,2,6.5,13.0
+2025-12-11,Desayuno,Hamburguesa,Principal,3,8.5,25.5
+2025-12-16,Desayuno,Pasta,Principal,4,7.5,30.0
+2025-12-18,Desayuno,Cafe,Bebida,4,1.5,6.0
+2025-12-18,Comida,Ensalada,Principal,2,6.5,13.0
+2025-10-29,Desayuno,Caffee,Bebida,5,1.5,7.5
+2025-10-15,Comida,Tarta Queso,Postre,2,3.5,7.0
+2025-12-28,Comida,Flan,Postre,3,3.0,9.0
+2025-10-13,Comida,Ensalada,Principal,4,6.5,26.0
+2025-12-30,Desayuno,Tarta Queso,Postre,1,3.5,3.5
+2025-12-29,Comida,Flan,Postre,4,3.0,12.0
+2025-11-19,Desayuno,Hamburguesa,Principal,1,8.5,8.5
+2025-10-31,Desayuno,Ensalada,Principal,1,6.5,6.5
+2025-11-15,Desayuno,Cafe,Bebida,5,1.5,7.5
+2025-12-14,Desayuno,Flan,Postre,3,3.0,9.0
+2025-12-22,Desayuno,Hamburguesa,Principal,5,8.5,42.5
+2025-12-03,Desayuno,Ensalada,Principal,3,6.5,19.5
+2025-12-21,Desayuno,Flan,Postre,5,3.0,15.0
+2025-12-30,Comida,Croissant,Entrante,5,2.2,11.0
+2025-12-19,Comida,Hamburguesa,Principal,2,8.5,17.0
+31-11-2025,Desayuno,Ensalada,Principal,3,6.5,19.5
+2025-11-04,Desayuno,Cafe,Bebida,2,1.5,3.0
+2025-11-19,Comida,Zumo Naranja,Bebida,5,2.5,12.5
+2025-12-07,Desayuno,Croissant,Entrante,3,2.2,6.6
+2025-11-29,Desayuno,Hamburguesa,Principal,2,8.5,17.0
+2025-10-12,Comida,Hamburguesa,Principal,4,8.5,34.0
+2025-12-03,Desayuno,Croissant,Entrante,3,2.2,6.6
+2025-12-05,Desayuno,Flan,Postre,3,3.0,9.0
+2025-12-16,Comida,Hamburguesa,Principal,4,8.5,34.0
+2025-12-23,Comida,Hamburguesa,Principal,2,8.5,17.0
+2025-10-10,Desayuno,Café,Bebida,1,1.5,1.5
+2025-11-12,Comida,Cafe,Bebida,4,1.5,6.0
+2025-12-21,Comida,Tarta Queso,Postre,2,3.5,7.0
+2025-11-30,Desayuno,Pasta,Principal,2,7.5,15.0
+2025-12-14,Comida,Croissant,Entrante,1,2.2,2.2
+2025-12-09,Comida,Ensalada,Principal,5,6.5,32.5
+2025-11-11,Desayuno,Cafe,Bebida,5,1.5,7.5
+2025-10-31,Comida,Cafe,Bebida,2,1.5,3.0
+2025-10-23,Desayuno,Croissant,Entrante,5,2.2,11.0
+2025-12-20,Comida,Zumo Naranja,Bebida,2,2.5,5.0
+2025-11-24,Comida,Tostada,Prinicpal,2,2.0,4.0
+2025-12-05,Desayuno,Flan,Postre,5,3.0,15.0
+2025-11-03,Comida,Café,Bebida,4,1.5,6.0
+2025-11-03,Desayuno,Flan,Postre,3,3.0,9.0
+2025-10-06,Desayuno,Zumo Naranja,Bebida,4,2.5,10.0
+2025-10-06,Comida,Cafe,Bebida,2,1.5,3.0
+2025-11-06,Comida,Zumo Naranja,Bebida,3,2.5,7.5
+2025-10-12,Comida,Ensalada,Principal,4,6.5,26.0
+2025-12-06,Comida,Pasta,Principal,1,7.5,7.5
+2025-10-25,Comida,Tarta Queso,Postre,4,3.5,14.0
+2025-10-05,Comida,Zumo Naranja,Bebida,2,2.5,5.0
+2025-11-10,Comida,Flan,Postre,5,3.0,15.0
+2025-12-31,Desayuno,Croissant,Entrante,2,2.2,4.4
+2025-12-22,Desayuno,Flan,Postre,3,3.0,9.0
+2025-10-05,Comida,Tostada,Entrante,2,2.0,4.0
+2025-11-29,Desayuno,Tostada,Entrante,2,2.0,4.0
+2025-10-05,Comida,Pasta,Principal,5,7.5,37.5
+2025-10-23,Comida,Zumo Naranja,Bebida,4,2.5,10.0
+2025-11-07,Comida,Café,Bebida,5,1.5,7.5
+2025-12-27,Desayuno,Cafe,Bebida,1,1.5,1.5
+2025-10-02,Comida,Tostada,Entrante,0,2.0,10.0
+2025-10-23,Comida,Cafe,Bebida,4,1.5,6.0
+2025-10-04,Comida,Hamburguesa,Principal,3,8.5,25.5
+2025-10-05,Desayuno,Zumo Naranja,Bebida,1,2.5,2.5
+2025-12-28,Comida,Hamburguesa,Principal,1,8.5,8.5
+2025-11-22,Desayuno,Croissant,Entrante,2,2.2,4.4
+2025-12-04,Desayuno,Hamburguesa,Principal,1,8.5,8.5
+2025-10-02,Comida,Café,Bebida,4,1.5,6.0
+2025-11-28,Desayuno,Hamburguesa,Principal,1,8.5,8.5
+2025-11-08,Comida,Cafe,Bebida,5,1.5,7.5
+2025-11-12,Comida,Zumo Naranja,Bebida,3,2.5,7.5
+2025-12-16,Desayuno,Zumo Naranja,Bebida,1,2.5,2.5
+2025-12-05,Comida,Pasta,Principal,5,7.5,37.5
+2025-10-23,Desayuno,Café,Bebida,3,1.5,4.5
+2025-11-04,Comida,Cafe,Bebida,1,1.5,1.5
+2025-12-28,Desayuno,Flan,Postre,4,3.0,12.0
+2025-12-06,Comida,Tarta Queso,Postre,4,3.5,14.0
+2025-11-13,Comida,Flan,Postre,4,3.0,12.0
+2025-10-12,Desayuno,Croissant,Entrante,1,2.2,2.2
+2025-12-24,Desayuno,Café,Bebida,4,1.5,6.0
