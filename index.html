@@ -1,43 +1,141 @@
-<!-- ===================== index.html ===================== -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mini BI Ventas</title>
+  <title>Dashboard BI – Comedor Pedagógico</title>
+
+  <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script defer src="app.js"></script>
+
   <style>
-    body { font-family: Arial, sans-serif; margin: 20px; }
-    h1, h2 { margin-top: 30px; }
-    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
-    th, td { border: 1px solid #ccc; padding: 6px; font-size: 12px; }
-    th { background: #f0f0f0; }
-    .kpi { display: inline-block; margin-right: 20px; font-weight: bold; }
-    canvas { max-width: 600px; margin-top: 20px; }
-    button { margin-top: 15px; padding: 8px 12px; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #1d2671, #c33764);
+      min-height: 100vh;
+      color: #333;
+    }
+
+    h1, h2 {
+      text-align: center;
+      color: #fff;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    }
+
+    .kpis {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 15px;
+      text-align: center;
+    }
+
+    .kpi {
+      background: #f4f6f8;
+      padding: 15px;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .charts {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    canvas {
+      max-width: 100%;
+      height: 400px !important;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 6px;
+    }
+
+    th {
+      background: #eaeaea;
+    }
+
+    button {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 18px;
+      font-size: 16px;
+      background: #1d2671;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #151c55;
+    }
+
+    @media (max-width: 900px) {
+      .charts {
+        grid-template-columns: 1fr;
+      }
+    }
   </style>
 </head>
+
 <body>
 
-<h1>📊 Mini BI de Ventas</h1>
+<h1>📊 Dashboard BI – Comedor Pedagógico</h1>
 
-<div id="info"></div>
+<div class="container">
 
-<h2>KPIs</h2>
-<div id="kpis"></div>
+  <div class="card" id="info"></div>
 
-<h2>Gráficos</h2>
-<canvas id="chartTop"></canvas>
-<canvas id="chartFranja"></canvas>
-<canvas id="chartFamilia"></canvas>
+  <div class="card">
+    <h2>KPIs principales</h2>
+    <div class="kpis" id="kpis"></div>
+  </div>
 
-<h2>Primeras 10 filas RAW</h2>
-<table id="tableRaw"></table>
+  <div class="card">
+    <h2>Gráficos</h2>
+    <div class="charts">
+      <canvas id="chartTop"></canvas>
+      <canvas id="chartFranja"></canvas>
+      <canvas id="chartFamilia"></canvas>
+    </div>
+  </div>
 
-<h2>Primeras 10 filas LIMPIAS</h2>
-<table id="tableClean"></table>
+  <div class="card">
+    <h2>Primeras 10 filas RAW</h2>
+    <table id="tableRaw"></table>
+  </div>
 
-<button id="download">⬇️ Descargar CSV limpio</button>
+  <div class="card">
+    <h2>Primeras 10 filas LIMPIAS</h2>
+    <table id="tableClean"></table>
+  </div>
+
+  <button id="download">⬇️ Descargar CSV limpio</button>
+
+</div>
 
 </body>
 </html>
