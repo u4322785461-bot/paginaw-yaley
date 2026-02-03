@@ -1,0 +1,43 @@
+<!-- ===================== index.html ===================== -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mini BI Ventas</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script defer src="app.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1, h2 { margin-top: 30px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 6px; font-size: 12px; }
+    th { background: #f0f0f0; }
+    .kpi { display: inline-block; margin-right: 20px; font-weight: bold; }
+    canvas { max-width: 600px; margin-top: 20px; }
+    button { margin-top: 15px; padding: 8px 12px; }
+  </style>
+</head>
+<body>
+
+<h1>📊 Mini BI de Ventas</h1>
+
+<div id="info"></div>
+
+<h2>KPIs</h2>
+<div id="kpis"></div>
+
+<h2>Gráficos</h2>
+<canvas id="chartTop"></canvas>
+<canvas id="chartFranja"></canvas>
+<canvas id="chartFamilia"></canvas>
+
+<h2>Primeras 10 filas RAW</h2>
+<table id="tableRaw"></table>
+
+<h2>Primeras 10 filas LIMPIAS</h2>
+<table id="tableClean"></table>
+
+<button id="download">⬇️ Descargar CSV limpio</button>
+
+</body>
+</html>
